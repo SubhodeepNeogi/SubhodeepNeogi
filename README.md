@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Subhodeep Neogi</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
-
-<img align="right" alt="coding" width="500" src="https://github.com/SubhodeepNeogi/SubhodeepNeogi/assets/107149291/73496b3a-5012-444b-b64a-09e66f76f733">
+<br>
+<img align="right" alt="coding" width="500" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhodeepneogi&label=Profile%20views&color=0e75b6&style=flat" alt="subhodeepneogi" /> </p>
 
 - 🔭 I’m currently working on **Web development, Artificial Intelligence and Machine Learning🤖**
@@ -33,6 +33,8 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhodeepneogi&show_icons=true&locale=en&layout=compact" alt="subhodeepneogi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhodeepneogi&show_icons=true&locale=en" alt="subhodeepneogi" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhodeepneogi&show_icons=true&locale=en&layout=compact" alt="subhodeepneogi" /></p><br>
+
+
