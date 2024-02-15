@@ -4,7 +4,8 @@
 <h3 align="center">A passionate IT Engineer from India</h3>
 <br>
 
-<img align="right" alt="coding" width="500" margin-left="10px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="coding" width="490" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhodeepneogi&label=Profile%20views&color=0e75b6&style=flat" alt="subhodeepneogi" /> </p>
 
 - 🔭 I’m currently working on **Web development, Artificial Intelligence and Machine Learning🤖**
