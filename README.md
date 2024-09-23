@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **Mail me - subhodeepneogi16@gmail.com, Connect with me - https://www.linkedin.com/in/subhodeepneogi/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LPVD_f9WEWlXj5Gfady3LE2YFJO_Na0c/view?usp=sharing](https://drive.google.com/file/d/1LPVD_f9WEWlXj5Gfady3LE2YFJO_Na0c/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LPVD_f9WEWlXj5Gfady3LE2YFJO_Na0c/view?usp=sharing](https://drive.google.com/file/d/1NvGA_1QK841h2xmdhIfqoahGKbqyhlq8/view?usp=sharing)
 
 - ⚡ Fun fact **I love dogs👀🐕**
 
